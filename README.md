@@ -1,2 +1,2 @@
-# WDOS1.github.io
+# PalmHotels.github.io
 First Semester Assignment
